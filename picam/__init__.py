@@ -3,7 +3,7 @@
 from _picam import *
 import StringIO
 from PIL import Image
-import ImageDraw
+from PIL import ImageDraw
 import RPi.GPIO as GPIO
 import os
 GPIO_AVAILABLE = True
